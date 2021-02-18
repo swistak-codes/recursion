@@ -1,4 +1,4 @@
-Code for blog article <https://swistak.codes/rekurencja-co-to-jest/> about recursion and upcoming one about moving from recursion to iteration.
+Code for blog article <https://swistak.codes/rekurencja-co-to-jest/> about recursion and https://swistak.codes/derekursywacja/ about moving from recursion to iteration.
 
 * basic-example.c - Fibonacci and factorial written purely recursive in C
 * basic-example.fs - Fibonacci and factorial written purely recursive in F#
